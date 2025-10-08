@@ -15,3 +15,4 @@ int[][] arrExample={
 Entregables:
 url del repo
 capturas de pantalla
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8a9f6a22-f660-411c-b072-09a0178a2769" />
